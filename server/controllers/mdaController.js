@@ -22,7 +22,6 @@ export const insertData = async(req,res) => {
         console.log('Mda inserted successfully');
     }catch(error){
         console.error(error)
-        return res.status(500).json({message:'server error'})
     }
 }
 

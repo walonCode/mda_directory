@@ -4,14 +4,17 @@ import { config } from 'dotenv'
 import mdaRouter from './routes/mdaRoute.js'
 import connectDB from './configs/connectDB.js'
 import { corsOptions } from './configs/corsOptions.js'
+import { insertData } from './controllers/mdaController.js'
 
 const app = express()
 
-//connection to the database
-// connectDB()
-
 //making .env work in nodejs
 config()
+
+//connection to the database
+await connectDB()
+
+// await insertData()
 
 //common middleware
 app.use(express.json())

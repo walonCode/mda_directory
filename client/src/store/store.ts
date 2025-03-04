@@ -1,9 +1,11 @@
 import { configureStore } from "@reduxjs/toolkit";
 import mdaReducer from './features/mda'
+import searchReducer from "./features/search";
 
 export const store = configureStore({
     reducer:{
-        mda:mdaReducer
+        mda:mdaReducer,
+        search:searchReducer
     }
 })
 
