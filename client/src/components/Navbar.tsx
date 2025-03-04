@@ -16,7 +16,7 @@ export default function Navbar() {
  
 
   return (
-    <nav className="bg-blue-600 p-4 w-full shadow-md">
+    <nav className="bg-blue-600 p-4  shadow-md">
       <div className=" flex items-center justify-between">
         {/* Logo and Navigation Links */}
         <div className="flex items-center space-x-6">
@@ -24,7 +24,7 @@ export default function Navbar() {
         </div>
 
         {/* Search Box */}
-        <div className="hidden md:flex w-[500px] gap-2">
+        <div className="hidden md:flex gap-2">
          <form onSubmit={handleForm} className="flex items-center gap-2">
          <input
             type="text"

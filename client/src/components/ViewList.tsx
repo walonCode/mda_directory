@@ -32,10 +32,10 @@ export default function ViewList() {
         MDA Directory
       </h1>
 
-      <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3 xl:grid-cols-4">
+      <div className="grid gap-8 sm:grid-cols-subgrid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {filteredMdas.length > 0 ? (
           filteredMdas.map((mda) => (
-            <div key={mda._id} className="w-full">
+            <div key={mda._id} className="">
               {/* MDA Title Component */}
               <div>
                 <MdaTitle mda={mda} /> {/* Using the MdaTitle card here */}

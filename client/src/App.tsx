@@ -4,7 +4,7 @@ import ViewList from "./components/ViewList";
 
 export default function App(){
   return(
-    <main className="w-full" >
+    <main className="" >
       <Navbar/>
       <ViewList/>
       <Footer/>

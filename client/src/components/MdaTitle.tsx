@@ -17,7 +17,7 @@ export interface Mda {
 
 const MdaTitle = ({ mda }: { mda: Mda }) => {
   return (
-    <div className="bg-white shadow-xl rounded-3xl p-8 md:p-10 flex flex-col w-full max-w-3xl mx-auto mt-8 space-y-6 transition-all duration-300 hover:shadow-2xl hover:scale-105">
+    <div className="bg-white shadow-xl rounded-3xl p-8 md:p-10 flex flex-col  max-w-3xl mx-auto mt-8 space-y-6 transition-all duration-300 hover:shadow-2xl hover:scale-105">
       {/* Title + Department/Agency/Ministry */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center sm:space-x-6">
         <div className="flex items-center space-x-6">

@@ -38,7 +38,6 @@ const initialState: MdaSlice = mdaAdaptor.getInitialState({
 // Async Thunks
 export const getMda = createAsyncThunk('mda/getMda', async () => {
     const response = await axios.get(BASE_URL);
-    console.log(response.data)
     return (await response.data.mda) as Mda[];
 });
 
