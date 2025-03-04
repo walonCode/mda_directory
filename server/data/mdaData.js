@@ -41,7 +41,7 @@ export const mdaData = [
   },
   {
     name: "Ministry of Internal Affairs",
-    department: "Internal Security",
+    department: "Liverpool Street",
     address: "202 Internal Blvd, Capital City",
     website: "https://internalaffairs.gov",
     phone: "+23278888099",
@@ -51,7 +51,7 @@ export const mdaData = [
   },
   {
     name: "Ministry of Defence",
-    department: "National Defence",
+    department: "State Avenure Tower Hill",
     address: "Freetown",
     website: "https://mod.gov.sl/",
     phone: "+1444555666",
@@ -62,7 +62,7 @@ export const mdaData = [
   {
     name: "Ministry of Planning and Economic Development",
     department: "Economic Growth",
-    address: "404 Plan Ave, Capital City",
+    address: "State Avenure VP Office",
     website: "https://planning.gov",
     phone: "+1555666777",
     isMinistry: true,
@@ -72,7 +72,7 @@ export const mdaData = [
   {
     name: "Ministry of Basic and Secondary Education",
     department: "Education",
-    address: "505 Edu Rd, Capital City",
+    address: "New England Ville",
     website: "https://education.gov",
     phone: "+1666777888",
     isMinistry: true,
@@ -82,7 +82,7 @@ export const mdaData = [
   {
     name: "Ministry of Social Welfare",
     department: "Welfare Services",
-    address: "606 Welfare St, Capital City",
+    address: "Aberdeen",
     website: "https://welfare.gov",
     phone: "+1777888999",
     isMinistry: true,
@@ -92,7 +92,7 @@ export const mdaData = [
   {
     name: "Ministry of Agriculture, and Food Security",
     department: "Agriculture & Food Security",
-    address: "707 Agro Rd, Capital City",
+    address: "Youyi Building",
     website: "https://agriculture.gov",
     phone: "+1888999000",
     isMinistry: true,
@@ -102,7 +102,7 @@ export const mdaData = [
   {
     name: "Ministry of Lands, Housing and Country Planning",
     department: "Land Management",
-    address: "808 Land Blvd, Capital City",
+    address: "Youyi Buiding",
     website: "https://lands.gov",
     phone: "+1999000111",
     isMinistry: true,
@@ -112,7 +112,7 @@ export const mdaData = [
   {
     name: "Ministry of Mines and  Mineral Resources",
     department: "Minerals & Resources",
-    address: "909 Mineral Rd, Capital City",
+    address: "Youyi Building",
     website: "https://minerals.gov",
     phone: "+2000112233",
     isMinistry: true,
@@ -122,7 +122,7 @@ export const mdaData = [
   {
     name: "Ministry of Health and Sanitation",
     department: "Public Health",
-    address: "1010 Health St, Capital City",
+    address: "Youyi Building",
     website: "https://health.gov",
     phone: "+2111223344",
     isMinistry: true,
@@ -132,7 +132,7 @@ export const mdaData = [
   {
     name: "Ministry of Transport and Aviation",
     department: "Transport & Aviation",
-    address: "1111 Transport Ave, Capital City",
+    address: "Youyi Building",
     website: "https://transport.gov",
     phone: "+2222334455",
     isMinistry: true,
@@ -142,7 +142,7 @@ export const mdaData = [
   {
     name: "Ministry of Trade and Industry",
     department: "Commerce",
-    address: "1212 Trade Blvd, Capital City",
+    address: "Youyi Building",
     website: "https://trade.gov",
     phone: "+2333445566",
     isMinistry: true,
@@ -152,7 +152,7 @@ export const mdaData = [
   {
     name: "Ministry of Youth Affairs",
     department: "Youth Development",
-    address: "1313 Youth Rd, Capital City",
+    address: "National Stadium",
     website: "https://youth.gov",
     phone: "+2444556677",
     isMinistry: true,
@@ -162,7 +162,7 @@ export const mdaData = [
   {
     name: "Ministry of Public Adminstration and Political Affairs",
     department: "PRO",
-    address: "1414 Sports Blvd, Capital City",
+    address: "Youyi Building",
     website: "https://sports.gov",
     phone: "+2555667788",
     isMinistry: true,
@@ -172,7 +172,7 @@ export const mdaData = [
   {
     name: "Ministry of Tourism and Culture",
     department: "Tourism & Culture",
-    address: "1515 Tourism Rd, Capital City",
+    address: "Kingharman Road",
     website: "https://tourism.gov",
     phone: "+2666778899",
     isMinistry: true,
@@ -182,7 +182,7 @@ export const mdaData = [
   {
     name: "Ministry of Works and Public Assets",
     department: "Public Infrastructure",
-    address: "1616 Works Ave, Capital City",
+    address: "Works Yard Pademba Road",
     website: "https://works.gov",
     phone: "+2777889900",
     isMinistry: true,
@@ -192,7 +192,7 @@ export const mdaData = [
   {
     name: "Ministry of Technical and Higher Education",
     department: "Higher Education",
-    address: "1717 Edu Rd, Capital City",
+    address: "New England Ville",
     website: "https://higheredu.gov",
     phone: "+2888990011",
     isMinistry: true,
@@ -202,7 +202,7 @@ export const mdaData = [
   {
     name: "Ministry of the Environment and Climate Change",
     department: "Environmental Protection",
-    address: "1818 Eco Rd, Capital City",
+    address: "Railway Line",
     website: "https://environment.gov",
     phone: "+2999001122",
     isMinistry: true,
@@ -212,7 +212,7 @@ export const mdaData = [
   {
     name: "Ministry of Gender and Children’s Affairs",
     department: "Gender Equality & Children's Rights",
-    address: "1919 Gender Blvd, Capital City",
+    address: "New England Vile",
     website: "https://gender.gov",
     phone: "+3110112233",
     isMinistry: true,
@@ -222,7 +222,7 @@ export const mdaData = [
   {
     name: "Ministry of Local Government and Community Affairs",
     department: "Local Governance",
-    address: "2020 Local Ave, Capital City",
+    address: "Youyi Building",
     website: "https://localgov.gov",
     phone: "+3221223344",
     isMinistry: true,
@@ -231,7 +231,7 @@ export const mdaData = [
   },
   {
     name: "Ministry of Communication, Technology, and Innovation",
-    department: "Research & Innovation",
+    department: "Youyi Building",
     address: "2121 Tech Rd, Capital City",
     website: "https://science.gov",
     phone: "+3332334455",
@@ -242,7 +242,7 @@ export const mdaData = [
   {
     name: "Ministry of Energy",
     department: "Energy",
-    address: "2121 Tech Rd, Capital City",
+    address: "Brook Street",
     website: "https://www.moe.gov.sl/",
     phone: "+3332334455",
     isMinistry: true,
@@ -252,7 +252,7 @@ export const mdaData = [
   {
     name: "National Revenue Authority",
     department: "Revenue Collection",
-    address: "123 Revenue Ave, Capital City",
+    address: "Wellington Street",
     website: "https://nra.gov",
     phone: "+123456789",
     isAgency: true,
@@ -260,7 +260,7 @@ export const mdaData = [
   {
     name: "Accountant General’s Department",
     department: "Accounting Services",
-    address: "456 Accounting Rd, Capital City",
+    address: "George Street",
     website: "https://accountantgeneral.gov",
     phone: "+987654321",
     isDepartment: true,
@@ -268,7 +268,7 @@ export const mdaData = [
   {
     name: "Human Resource Management Office",
     department: "HR Management",
-    address: "789 HR Blvd, Capital City",
+    address: "George Street",
     website: "https://hrmo.gov",
     phone: "+1122334455",
     isDepartment: true,
@@ -276,7 +276,7 @@ export const mdaData = [
   {
     name: "Statistics Sierra Leone",
     department: "Statistical Services",
-    address: "101 Statistics St, Capital City",
+    address: "AJ Momoh Street",
     website: "https://statistics.gov",
     phone: "+1222333444",
     isAgency: true,
@@ -284,7 +284,7 @@ export const mdaData = [
   {
     name: "National Public Procurement Authority",
     department: "Public Procurement",
-    address: "202 Procurement Ave, Capital City",
+    address: "State Avenure",
     website: "https://npra.gov",
     phone: "+1333444555",
     isAgency: true,
@@ -292,7 +292,7 @@ export const mdaData = [
   {
     name: "National Telecommunications Commission",
     department: "Telecommunications",
-    address: "303 Telecom Rd, Capital City",
+    address: "Hill Station",
     website: "https://ntc.gov",
     phone: "+1444555666",
     isAgency: true,
@@ -300,7 +300,7 @@ export const mdaData = [
   {
     name: "National Civil Registration Authority",
     department: "Civil Registration",
-    address: "404 Civil Rd, Capital City",
+    address: "Wallace Johnson Street",
     website: "https://ncra.gov",
     phone: "+1555666777",
     isAgency: true,
@@ -308,7 +308,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Civil Aviation Authority",
     department: "Aviation Services",
-    address: "505 Aviation Blvd, Capital City",
+    address: "Siaka Steven Street",
     website: "https://slcaa.gov",
     phone: "+1666777888",
     isAgency: true,
@@ -316,7 +316,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Roads Authority",
     department: "Road Infrastructure",
-    address: "606 Roads Ave, Capital City",
+    address: "PWD Kissy",
     website: "https://slra.gov",
     phone: "+1777888999",
     isAgency: true,
@@ -324,7 +324,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Road Safety Authority",
     department: "Road Safety",
-    address: "707 Safety Rd, Capital City",
+    address: "Kissy Road",
     website: "https://slrsa.gov",
     phone: "+1888999000",
     isAgency: true,
@@ -332,7 +332,7 @@ export const mdaData = [
   {
     name: "National Authorising Office",
     department: "Authorising Services",
-    address: "808 Authorising Ave, Capital City",
+    address: "Tower Hill",
     website: "https://nao.gov",
     phone: "+1999000111",
     isAgency: true,
@@ -340,7 +340,7 @@ export const mdaData = [
   {
     name: "National Petroleum Directorate",
     department: "Petroleum Regulation",
-    address: "909 Petroleum Rd, Capital City",
+    address: "Bristish Council Towe Hill",
     website: "https://npd.gov",
     phone: "+2000112233",
     isAgency: true,
@@ -348,7 +348,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Investment and Export Promotion Agency",
     department: "Investment & Export Promotion",
-    address: "1010 Export Rd, Capital City",
+    address: "Tower Hill",
     website: "https://investsl.gov",
     phone: "+2111223344",
     isAgency: true,
@@ -356,7 +356,7 @@ export const mdaData = [
   {
     name: "Small and Medium Enterprise Development Agency",
     department: "SME Development",
-    address: "1111 SME Blvd, Capital City",
+    address: "Youyi Building",
     website: "https://smeda.gov",
     phone: "+2222334455",
     isAgency: true,
@@ -364,7 +364,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Local Content Agency",
     department: "Local Content",
-    address: "1212 Content Rd, Capital City",
+    address: "Youyi Building",
     website: "https://slcontent.gov",
     phone: "+2333445566",
     isAgency: true,
@@ -372,7 +372,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Standards Bureau",
     department: "Standardization",
-    address: "1313 Standards Ave, Capital City",
+    address: "Cline Town",
     website: "https://slstandards.gov",
     phone: "+2444556677",
     isAgency: true,
@@ -380,7 +380,7 @@ export const mdaData = [
   {
     name: "Electricity and Water Regulatory Commission",
     department: "Regulation",
-    address: "1414 Energy Rd, Capital City",
+    address: "Siaka Steven Street",
     website: "https://ewrc.gov",
     phone: "+2555667788",
     isAgency: true,
@@ -388,7 +388,7 @@ export const mdaData = [
   {
     name: "National Cooperative Agency",
     department: "Cooperative Development",
-    address: "1515 Coop Ave, Capital City",
+    address: "Youyi Building",
     website: "https://cooperative.gov",
     phone: "+2666778899",
     isAgency: true,
@@ -396,7 +396,7 @@ export const mdaData = [
   {
     name: "National Commission for Social Action",
     department: "Social Services",
-    address: "1616 Social Rd, Capital City",
+    address: "Charlotte Street",
     website: "https://ncsa.gov",
     phone: "+2777889900",
     isAgency: true,
@@ -404,7 +404,7 @@ export const mdaData = [
   {
     name: "Office of the Administrator and Registrar General",
     department: "Registrar Services",
-    address: "1717 Registrar Blvd, Capital City",
+    address: "Walpole Street",
     website: "https://oarg.gov",
     phone: "+2888990011",
     isAgency: true,
@@ -412,7 +412,7 @@ export const mdaData = [
   {
     name: "Corporate Affairs Commission",
     department: "Corporate Affairs",
-    address: "1818 Corporate Rd, Capital City",
+    address: "Fort Street",
     website: "https://cac.gov",
     phone: "+2999001122",
     isAgency: true,
@@ -420,7 +420,7 @@ export const mdaData = [
   {
     name: "Independent Media Commission",
     department: "Media Regulation",
-    address: "1919 Media Blvd, Capital City",
+    address: "Imatt",
     website: "https://imc.gov",
     phone: "+3110112233",
     isAgency: true,
@@ -428,7 +428,7 @@ export const mdaData = [
   {
     name: "Anti Corruption Commission",
     department: "Anti-Corruption",
-    address: "2020 Anti-Corruption Rd, Capital City",
+    address: "Tower Hill",
     website: "https://anticorruption.gov",
     phone: "+3221223344",
     isAgency: true,
@@ -436,7 +436,7 @@ export const mdaData = [
   {
     name: "Law Reform Commission",
     department: "Law Reform",
-    address: "2121 Law Rd, Capital City",
+    address: "Special Court",
     website: "https://lawreform.gov",
     phone: "+3332334455",
     isAgency: true,
@@ -444,7 +444,7 @@ export const mdaData = [
   {
     name: "Political Parties Registration Commission",
     department: "Political Affairs",
-    address: "2222 Political Rd, Capital City",
+    address: "Mend Street",
     website: "https://politicalparties.gov",
     phone: "+3443445566",
     isAgency: true,
@@ -452,7 +452,7 @@ export const mdaData = [
   {
     name: "National Assets and Government Property Commission",
     department: "Asset Management",
-    address: "2323 Asset Ave, Capital City",
+    address: "Youyi Building",
     website: "https://assets.gov",
     phone: "+3554556677",
     isAgency: true,
@@ -460,7 +460,7 @@ export const mdaData = [
   {
     name: "Local Government Commission",
     department: "Local Governance",
-    address: "2424 Local Gov Rd, Capital City",
+    address: "Youyi Building",
     website: "https://localgovcom.gov",
     phone: "+3665667788",
     isAgency: true,
@@ -468,7 +468,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Insurance Commission",
     department: "Insurance Regulation",
-    address: "2525 Insurance Ave, Capital City",
+    address: "Wilberforce Street",
     website: "https://slinsurance.gov",
     phone: "+3776778899",
     isAgency: true,
@@ -476,7 +476,7 @@ export const mdaData = [
   {
     name: "National Electoral Commission",
     department: "Electoral Services",
-    address: "2626 Election Blvd, Capital City",
+    address: "Tower Hill",
     website: "https://nec.gov",
     phone: "+3887889900",
     isAgency: true,
@@ -484,7 +484,7 @@ export const mdaData = [
   {
     name: "Human Rights Commission",
     department: "Human Rights",
-    address: "2727 Rights Ave, Capital City",
+    address: "Tower Hill",
     website: "https://hrc.gov",
     phone: "+3998990011",
     isAgency: true,
@@ -492,7 +492,7 @@ export const mdaData = [
   {
     name: "Justice and Legal Service Commission",
     department: "Legal Services",
-    address: "2828 Legal Rd, Capital City",
+    address: "Wilberforce Street",
     website: "https://jls.gov",
     phone: "+4000112233",
     isAgency: true,
@@ -500,7 +500,7 @@ export const mdaData = [
   {
     name: "National Commission for Privatisation",
     department: "Privatisation Services",
-    address: "2929 Privatisation Blvd, Capital City",
+    address: "Tower Hill",
     website: "https://privatisation.gov",
     phone: "+4111223344",
     isAgency: true,
@@ -508,7 +508,7 @@ export const mdaData = [
   {
     name: "Rights to Access Information Commission",
     department: "Access to Information",
-    address: "3030 Info Rd, Capital City",
+    address: "Kroo Town Road",
     website: "https://accessinfo.gov",
     phone: "+4222334455",
     isAgency: true,
@@ -516,7 +516,7 @@ export const mdaData = [
   {
     name: "Wages and Compensation Commission",
     department: "Wage Regulation",
-    address: "3131 Wages Ave, Capital City",
+    address: "Brookfields",
     website: "https://wages.gov",
     phone: "+4333445566",
     isAgency: true,
@@ -524,7 +524,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Maritime Administration",
     department: "Maritime Affairs",
-    address: "3232 Maritime Rd, Capital City",
+    address: "Government Wharf",
     website: "https://maritime.gov",
     phone: "+4444556677",
     isAgency: true,
@@ -532,7 +532,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Small Arms Commission",
     department: "Arms Regulation",
-    address: "3333 Arms Rd, Capital City",
+    address: "Liverpool Street",
     website: "https://smallarms.gov",
     phone: "+4555667788",
     isAgency: true,
@@ -540,7 +540,7 @@ export const mdaData = [
   {
     name: "Sierra Leone Environmental Protection Agency",
     department: "Environmental Protection",
-    address: "3434 Environment Rd, Capital City",
+    address: "Railway Line",
     website: "https://slenvironment.gov",
     phone: "+4666778899",
     isAgency: true,
@@ -548,23 +548,15 @@ export const mdaData = [
   {
     name: "National Protected Areas Authority",
     department: "Protected Areas",
-    address: "3535 Protected Ave, Capital City",
+    address: "Youyi Building",
     website: "https://protectedareas.gov",
     phone: "+4777889900",
     isAgency: true,
   },
   {
-    name: "Sierra Leone Petroleum Regulatory Agency",
-    department: "Petroleum Regulation",
-    address: "3636 Petroleum Blvd, Capital City",
-    website: "https://slpetroleum.gov",
-    phone: "+4888990011",
-    isAgency: true,
-  },
-  {
     name: "Nuclear Safety and Radiation Protection Agency",
     department: "Radiation Protection",
-    address: "3737 Radiation Rd, Capital City",
+    address: "New England Ville",
     website: "https://nucleargov.gov",
     phone: "+4999001122",
     isAgency: true,
@@ -572,7 +564,7 @@ export const mdaData = [
   {
     name: "Public Service Commission",
     department: "Public Service Regulation",
-    address: "3838 Service Rd, Capital City",
+    address: "Glocester Street",
     website: "https://publicservice.gov",
     phone: "+5000112233",
     isAgency: true,
@@ -580,7 +572,7 @@ export const mdaData = [
   {
     name: "Teaching Service Commission",
     department: "Teaching Services",
-    address: "3939 Teaching Rd, Capital City",
+    address: "John Street",
     website: "https://teaching.gov",
     phone: "+5111223344",
     isAgency: true,
@@ -588,7 +580,7 @@ export const mdaData = [
   {
     name: "Tertiary Education Commission",
     department: "Tertiary Education",
-    address: "4040 Education Rd, Capital City",
+    address: "John Street",
     website: "https://tertiaryedu.gov",
     phone: "+5222334455",
     isAgency: true,
@@ -596,7 +588,7 @@ export const mdaData = [
   {
     name: "Office of National Security",
     department: "National Security",
-    address: "4141 Security Blvd, Capital City",
+    address: "Tower Hill",
     website: "https://ons.gov",
     phone: "+5333445566",
     isAgency: true,
@@ -604,7 +596,7 @@ export const mdaData = [
   {
     name: "Immigration Department",
     department: "Immigration Services",
-    address: "4242 Immigration Rd, Capital City",
+    address: "Glocester Street",
     website: "https://immigration.gov",
     phone: "+5444556677",
     isAgency: true,
@@ -612,7 +604,7 @@ export const mdaData = [
   {
     name: "National Medical Supplies Agency",
     department: "Medical Supplies",
-    address: "4343 Medical Rd, Capital City",
+    address: "New England Ville",
     website: "https://medsupplies.gov",
     phone: "+5555667788",
     isAgency: true,
@@ -620,23 +612,15 @@ export const mdaData = [
   {
     name: "Health Service Commission",
     department: "Health Services",
-    address: "4444 Health Rd, Capital City",
+    address: "New England Ville",
     website: "https://healthservices.gov",
     phone: "+5666778899",
     isAgency: true,
   },
   {
-    name: "National Youth Commission",
-    department: "Youth Affairs",
-    address: "4545 Youth Rd, Capital City",
-    website: "https://youthcommission.gov",
-    phone: "+5777889900",
-    isAgency: true,
-  },
-  {
     name: "National HIV/AIDS Commission",
     department: "HIV/AIDS Regulation",
-    address: "4646 HIV Rd, Capital City",
+    address: "Kingharman Road",
     website: "https://hivcommission.gov",
     phone: "+5888990011",
     isAgency: true,
@@ -644,8 +628,32 @@ export const mdaData = [
   {
     name: "Pharmacy Board Services",
     department: "Pharmacy Services",
-    address: "4747 Pharmacy Blvd, Capital City",
+    address: "Lightfoot Boston Street",
     website: "https://pharmacyboard.gov",
+    phone: "+5999001122",
+    isAgency: true,
+  },
+  {
+    name: "Electricity Distribution Supply Agency",
+    department: "Electricity",
+    address: "Siaka Steven Street",
+    website: "https://edsa.gov",
+    phone: "+5999001122",
+    isAgency: true,
+  },
+  {
+    name: "Guma Valley Water Company",
+    department: "Water",
+    address: "Lamina Sankoh Street",
+    website: "https://guma.gov",
+    phone: "+5999001122",
+    isAgency: true,
+  },
+  {
+    name: "Sierra Leone Water Agency Commission",
+    department: "Water",
+    address: "Siaka Steven Street",
+    website: "https://salwaco.gov",
     phone: "+5999001122",
     isAgency: true,
   },

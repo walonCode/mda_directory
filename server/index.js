@@ -12,7 +12,7 @@ const app = express()
 config()
 
 //connection to the database
-await connectDB()
+connectDB()
 
 // await insertData()
 
