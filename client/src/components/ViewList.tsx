@@ -18,7 +18,8 @@ export default function ViewList() {
         mda.department.toLowerCase().includes(searchTerm.toLowerCase()) ||
         mda.minister?.toLowerCase().includes(searchTerm.toLowerCase()) ||
         mda.deputyMinister?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        mda.phone.includes(searchTerm)
+        mda.phone.includes(searchTerm) || 
+        mda.address.toLowerCase().includes(searchTerm.toLowerCase())
       );
       setFilteredMdas(filtered);
     } else {

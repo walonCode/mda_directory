@@ -16,7 +16,7 @@ export default function Navbar() {
  
 
   return (
-    <nav className="bg-blue-600 p-4  shadow-md">
+    <nav className="bg-blue-600 p-4 mx-auto shadow-md">
       <div className=" flex items-center justify-between">
         {/* Logo and Navigation Links */}
         <div className="flex items-center space-x-6">
